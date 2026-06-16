@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, It's Me Mr.Niko</h1>
 
 <a href="https://twitter.com/_MrNiko" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://github.com/0xMrNiko" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Red+Teamer%2C+CTF+Player;%40_MrNiko" alt="Typing SVG" /></a>
